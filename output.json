@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "fullname": "John Appleseed",
+    "groups": "\"Turma 1 / Turma 2 / Turma 3\"",
+    "email": "example1@email.com",
+    "phone": "999999999",
+    "parentPhone": "999999999",
+    "parentEmail": "example2@email.com",
+    "invisible": "0",
+    "seeAll": "1"
+  },
+  {
+    "id": "2",
+    "fullname": "John Appleseed",
+    "groups": "\"Turma 1 / Turma 3 / Turma 4 / Noturno\"",
+    "email": "example1@email.com",
+    "phone": "999999999",
+    "parentPhone": "999999999",
+    "parentEmail": "example2@email.com",
+    "invisible": "1",
+    "seeAll": "0"
+  },
+  {
+    "id": "3",
+    "fullname": "John Appleseed",
+    "groups": "\"Turma 1 / Turma 2 / Turma 3 / Turma 4\"",
+    "email": "example1@email.com",
+    "phone": "999999999",
+    "parentPhone": "999999999",
+    "parentEmail": "example2@email.com",
+    "invisible": "0",
+    "seeAll": "0"
+  },
+  {
+    "id": "4",
+    "fullname": "John Appleseed",
+    "groups": "\"Turma 1 / Turma 2 / Noturno\"",
+    "email": "example1@email.com",
+    "phone": "999999999",
+    "parentPhone": "999999999",
+    "parentEmail": "example2@email.com",
+    "invisible": "1",
+    "seeAll": "1"
+  }
+]
